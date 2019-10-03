@@ -95,7 +95,7 @@ O seu git está configurado.
 	
 - **Passo 3 - Clonar repositorio remoto:**
 
-	git clone https://github.com/laboratoriodejogos/grupo_arquivos.git   (exemplo)
+	git clone https://github.com/DanielGTI/php-exemplo.git   (exemplo)
 
 
 Pronto!
